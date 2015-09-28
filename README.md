@@ -1,3 +1,4 @@
 # hello-world
 Tutorial. Should be deleted shortly.
-There's not a whole lot of information about how to edit individual files, though I'm not even sure I'm supposed to be doing so quite yet. Perhaps Creating a Branch is how one edits files and I'm supposed to be blindly following the tutorial instead of trying to follow the instruction "work towards editing your README and closing this issue." We'll find out.
+
+Found the information on editing. It was indeed part of the New Branch tutorial. This should be more clear in the tutorial, such as "Next, we will edit..." instead of saying "Next, work on this...", which has the implication of "Do this and then move on".
